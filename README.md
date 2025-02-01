@@ -1,2 +1,2 @@
-# The-Counter
+# The Counter
 The counter.
